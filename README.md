@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# <div align="center">Tech Stack</div>
+# <div align="center">
+  Tech Stack
+</div>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
