@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-# <div align="center">
-  Tech Stack
-</div>
+# <div align="center">Tech Stack</div>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<div align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> </div>
 
 <!--
 **hyeon3730/hyeon3730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
